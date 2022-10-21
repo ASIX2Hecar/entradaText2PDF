@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.zend.com/server/deployment-descriptor/1.0" version="1.0">
+  <type>application</type>
+  <name>entradaText2PDF</name>
+  <summary>Crea un PDF a partir d'una entrada de text</summary>
+  <version>
+    <release>1.1</release>
+  </version>
+  <appdir></appdir>
+  <docroot></docroot>
+  <dependencies>
+    <required>
+      <php>
+        <min>7.3.0</min>
+      </php>
+      <directive>
+        <name>safe_mode</name>
+        <equals>off</equals>
+      </directive>
+    </required>
+  </dependencies>
+</package>
