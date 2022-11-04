@@ -4,7 +4,7 @@
   <name>entradaText2PDF</name>
   <summary>Crea un PDF a partir d'una entrada de text</summary>
   <version>
-    <release>1.1</release>
+    <release>1.3</release>
   </version>
   <appdir></appdir>
   <docroot></docroot>
